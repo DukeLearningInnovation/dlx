@@ -29,7 +29,7 @@ tools are deeply integrated to provide students with a seamless learning experie
 
 Because of the way the edtech industry has evolved, this will limit your choices as not every tool has been designed to offer its functionality outside of its design. But times are a changing, some companies get this.
 
-Open source options become much more appealing in this model. With more flexible business model options.
+Open source options become much more appealing in this model. With more flexible business, implementation, and operational models.
 
 ## DLX Examples
 
